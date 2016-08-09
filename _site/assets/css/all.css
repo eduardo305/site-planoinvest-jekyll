@@ -1,0 +1,42 @@
+.about_phone img {
+  height: 760px;
+  width: 500px; }
+
+.about .icon-wrapper {
+  text-align: center; }
+  .about .icon-wrapper i {
+    font-size: 100px;
+    color: #bababa; }
+.about .fadeInRight {
+  float: none;
+  margin: 0 auto; }
+
+@media screen and (max-width: 768px) {
+  .about_phone img {
+    height: 373px;
+    width: 290px; } }
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  .about_phone img {
+    height: 663px;
+    width: 460px; } }
+.ourservices_area {
+  background: #e4e4e4;
+  padding-bottom: 140px;
+  padding-top: 120px; }
+
+.analysis_area {
+  background: #f1f1f1;
+  padding-bottom: 140px;
+  padding-top: 120px; }
+  .analysis_area .stats-container {
+    background: #f1f1f1;
+    border: 1px solid #b4b4b4; }
+    .analysis_area .stats-container .stats {
+      padding: 30px; }
+      .analysis_area .stats-container .stats i {
+        font-size: 40px;
+        display: inline-block;
+        vertical-align: sub;
+        color: #b4b4b4; }
+      .analysis_area .stats-container .stats span {
+        font-size: 30px; }

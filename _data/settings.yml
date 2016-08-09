@@ -1,0 +1,39 @@
+#-------------------------------
+# General Site Settings
+
+title: Plano Investimentos
+email: contato@planoinvestimentos.com
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'A Plano Investimentos é uma empresa voltada a tornar seus investimentos mais seguros'
+  rel-author: 'http://www.planoinvestimentos.com'
+  rel-publisher: 'http://www.planoinvestimentos.com'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+#google-analytics-ua: UA-XXXXXX-X
+
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'twitter', link: 'http://twitter.com/devtipsshow'}
+- {icon: 'dribbble', link: 'https://dribbble.com/travisneilson'}
+- {icon: 'behance', link: 'https://www.behance.net/travisneilson'}
+- {icon: 'youtube', link: 'https://www.youtube.com/DevTipsForDesigners'}
+- {icon: 'linkedin', link: 'http://www.linkedin.com/in/travisneilson/'}
+
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
